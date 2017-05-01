@@ -69,7 +69,7 @@ Configuração e manutenção de Sistemas Operacionais, redes, impressoras, inst
 em geral. Criação, manutenção de contas e e-mail Institucional. Permissão de acesso a pastas compartilhadas
 em rede local gerenciado pelo Windows Server. Criação e manutenção de softwares básicos para demanda local.
 
-CURSOS
+### CURSOS
  Gestão de Processos – FM2S EAD - 16horas Técnicas princípios e ferramentas para implementação da gestão 
 de processos com excelência. Em linhas gerais, ferramentas, Processos, Indicadores, analise, propostas 
 de melhorias.
@@ -79,7 +79,7 @@ o Introdução à Gestão por Processos e BPMN
 o Modelagem e Análise de Processos com BPMN - Módulo Prático
 
 
-Bom Intermediário Avançado
+### Inglês
  Leitura Intermediario 
  Escrita Basico
 
