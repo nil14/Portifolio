@@ -6,16 +6,14 @@
 ### Formação
 Bacharel em Sistemas de informação pela Universidade Federal da Paraíba
 
-
-```markdown
-
+--------------------------------------------------------------------------------------------------
 NIL ALISSON ALVES PEREIRA                                       Brasileiro - 29 anos 
     
 Celular: 83 996495522                                           E-mail: nil.alisson@dce.ufpb.br
 
 Linkedin: https://br.linkedin.com/in/nil-alisson
 
-
+--------------------------------------------------------------------------------------------------
 
 ### OBJETIVO
 Trainee, Asistente operacional, Analista de Processos junior (BPM), Analista de Suporte junior 
